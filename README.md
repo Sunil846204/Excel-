@@ -1,0 +1,1 @@
+Excel-based data analysis dashboard for Vrinda Store, providing insights into sales performance, product categories, regional contributions, and customer trends. Includes interactive charts, pivot tables, and summary reports to track revenue growth, identify top-performing products, and support business decision-making.
