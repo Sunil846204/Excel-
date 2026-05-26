@@ -1,1 +1,1 @@
-
+Excel-based Treasure Dashboard for jewellery business analysis. Tracks product-level performance across categories (rings, earrings, necklaces, pendants, bracelets), vendors, and regions. Includes detailed metrics such as stock quantity, unit cost, sales quantity, total sales value, profit, and profit percentage. Designed to provide actionable insights into inventory management, pricing, and profitability trends over multiple years.
